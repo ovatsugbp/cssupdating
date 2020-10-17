@@ -1,5 +1,5 @@
 # Updating CSS with Java Script
-Third day of JavaScript30 created by [Wes Bos] (https://github.com/wesbos).
+<p align="center">Third day of JavaScript30 created by [Wes Bos](https://github.com/wesbos).</p>
 
 ### 🛠 Tools:
 - JavaScript
