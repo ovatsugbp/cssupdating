@@ -1,5 +1,5 @@
 # Updating CSS with Java Script
-<p align="center">Third day of JavaScript30 created by Wes Bos </p> [![Twitter Badge](https://img.shields.io/badge/-@wesbos-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wesbos)](https://twitter.com/wesbos)
+<p align="center">Third day of JavaScript30 created by <a href"https://github.com/wesbos">Wes Bos</a>.</p>
 
 ### 🛠 Tools:
 - JavaScript
